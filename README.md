@@ -53,8 +53,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### :keyboard: Activity: Edit your file with headers
 
-# Steps
-## step 1-11
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 2. Open the **pull requests** tab.
 3. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
@@ -67,7 +65,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 10. Click **Commit changes**.
 11. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-##### I made no changes to this document
 <footer>
 
 
